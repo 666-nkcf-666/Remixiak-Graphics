@@ -1,3 +1,3 @@
 ### Darmowe prace
 
-![Template1](https://octodex.github.com/images/yaktocat.png)
+![Template1](https://github.com/CookieRemixiak/Remixiak-Graphics/blob/master/bezpłatne/templatefortnite1.png)
